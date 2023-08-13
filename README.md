@@ -3,9 +3,6 @@
 ## Description 
 A simple note taker that allows users to take titled notes and save or delete them. 
 
-## Installation 
-
-
 ## User Story
 
 ```
@@ -35,4 +32,4 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 
 ## Project Screenshot 
 
-## Questions 
+![](./images/Screenshot%202023-08-13%20185433.png)
